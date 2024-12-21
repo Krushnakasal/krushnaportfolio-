@@ -63,7 +63,7 @@ const Portfolio = () => {
           <div className="w-full md:w-1/2">
             <a href="https://krushnakasal.github.io/E-commerce" target="_blank" rel="noopener noreferrer">
               <img
-                src="https://media.istockphoto.com/id/1060739400/photo/web-design-technology-browsing-programming-concept.webp"
+                src="https://media.istockphoto.com/id/1060739400/photo/web-design-technology-browsing-programming-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=Rl2JLbZYjh37LOOyMg4UAlXYEtkX8zlWsGil5fA9A0Q="
                 alt="E-commerce Project"
                 className="w-full h-full object-cover"
               />
@@ -100,7 +100,7 @@ const Portfolio = () => {
           <div className="w-full md:w-1/2">
             <a href="https://krushnakasal.github.io/Flower.-Html/#" target="_blank" rel="noopener noreferrer">
               <img
-                src="https://media.istockphoto.com/id/1060739400/photo/web-design-technology-browsing-programming-concept.webp"
+                src="https://media.istockphoto.com/id/1060739400/photo/web-design-technology-browsing-programming-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=Rl2JLbZYjh37LOOyMg4UAlXYEtkX8zlWsGil5fA9A0Q="
                 alt="Flowers Project"
                 className="w-full h-full object-cover"
               />
