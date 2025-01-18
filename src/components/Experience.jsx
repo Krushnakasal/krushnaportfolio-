@@ -112,7 +112,7 @@ const Experience = () => {
           {/* VS Code */}
           <div className="flex flex-col items-center">
             <img
-              src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj"
+              src="https://yt3.googleusercontent.com/SrR4yedn6iaf431Y8ciCu6m_NTu0xqPyAYTps0WV0QgQO9NA2JUZDdJMg4435wI-wR8peEW59A=s900-c-k-c0x00ffffff-no-rj"
               alt="VS Code"
               className="h-28 rounded-[70%] w-28 mb-3 border shadow-md shadow-slate-100 transition duration-300 transform hover:scale-110 "
             />
